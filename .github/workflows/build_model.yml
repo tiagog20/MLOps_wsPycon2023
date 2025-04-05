@@ -1,3 +1,4 @@
+# SALTE
 name: Build Model like artifact to wandb
 
 on:
